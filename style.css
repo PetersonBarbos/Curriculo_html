@@ -42,7 +42,7 @@ header{
 nav{
     min-width: 280px;
     text-align: center;
-    padding: 15px 0px 0px 0px;
+    padding: 10px 0px 0px 0px;
     
 }
 
@@ -56,9 +56,9 @@ nav > a:hover{
 nav  a{
     text-decoration: none;
     text-align: center;
-    margin: 0px 50px 0px 50px;
+    margin: 0px 15px 0px 15px;
     color: #FFFFFF;
-    padding: 8px 10px 8px 10px;
+    padding: 8px 15px 8px 15px;
 }
 
 
